@@ -6,6 +6,3 @@ attr_accessor :name
     puts "Woof!"
   end
   
-  fido = Dog.new
-  fido.name = "fido"
-end
